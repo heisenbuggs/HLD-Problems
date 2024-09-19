@@ -1,12 +1,12 @@
 {
   "type": "excalidraw",
   "version": 2,
-  "source": "https://excalidraw.com",
+  "source": "https://excalidraw-jetbrains-plugin",
   "elements": [
     {
       "type": "text",
-      "version": 84,
-      "versionNonce": 1804308853,
+      "version": 85,
+      "versionNonce": 1236776721,
       "index": "c00m",
       "isDeleted": false,
       "id": "WVdeKUDdfwfZAMg4FIAgO",
@@ -20,14 +20,14 @@
       "y": 339.14056385983747,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
-      "width": 284.53972983360296,
-      "height": 64.55078135500628,
+      "width": 249.52603149414062,
+      "height": 64.55078135500627,
       "seed": 643671515,
       "groupIds": [],
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1726675185859,
+      "updated": 1726715583152,
       "link": null,
       "locked": false,
       "fontSize": 51.64062508400501,
@@ -38,12 +38,13 @@
       "containerId": null,
       "originalText": "HLD - Easy",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "baseline": 49
     },
     {
       "type": "text",
-      "version": 95,
-      "versionNonce": 1875474491,
+      "version": 96,
+      "versionNonce": 403684991,
       "index": "c00q",
       "isDeleted": false,
       "id": "5zHswf0KB1P7kkxLPaY3e",
@@ -57,14 +58,14 @@
       "y": -400.5655591114696,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
-      "width": 151.70395255088806,
+      "width": 121.9921875,
       "height": 45,
       "seed": 1429701813,
       "groupIds": [],
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1726675196077,
+      "updated": 1726715583155,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -75,13 +76,12 @@
       "containerId": null,
       "originalText": "Pastebin",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "baseline": 34
     }
   ],
   "appState": {
-    "gridSize": 20,
-    "gridStep": 5,
-    "gridModeEnabled": false,
+    "gridSize": null,
     "viewBackgroundColor": "#ffffff"
   },
   "files": {}
