@@ -1,22 +1,24 @@
 # HLD-Problems
 ## Easy Problems
-- Design Distributed Job Scheduler
-- Design URL Shortener like TinyURL
-
+- [ ] Design Key-Value Store
+- [ ] Design Job Scheduler
+- [ ] Design URL Shortener
+- [ ] Design Rate Limiter
 ## Medium Problems
-- Design Tinder
-- Design YouTube
-- Design WhatsApp
-- Design Twitter
-- Tweet Search
-- Design Analytics Platform (Metrics & Logging)
-- Design Flight Booking System like Ixigo/MakeMyTrip
-- Design Spotify
-- Design Rate Limiter
-- Design Notification Service
-
+- [ ] Design Tinder
+- [ ] Design YouTube
+- [ ] Design WhatsApp
+- [ ] Design Twitter
+- [ ] Design Tweet Search
+- [ ] Design Analytics Platform (Metrics & Logging)
+- [ ] Design Ixigo/MakeMyTrip
+- [ ] Design Spotify
+- [ ] Design Search Autocomplete (Google Search)
+- [ ] Design Notification Service
+- [ ] Design News Feed (Reddit)
+- [ ] Design Nearby Friends
 ## Hard Problems
-- Design Uber
-- Design File Sharing System like Dropbox
-- Design Ticket Booking System like BookMyShow
-- Design Distributed Web Crawler
+- [ ] Design Uber
+- [ ] Design Dropbox/Google Drive
+- [ ] Design BookMyShow
+- [ ] Design Web Crawler
