@@ -17,6 +17,7 @@
 - [ ] Design Notification Service
 - [ ] Design News Feed (Reddit)
 - [ ] Design Nearby Friends
+- [ ] Design Payment System
 ## Hard Problems
 - [ ] Design Uber
 - [ ] Design Dropbox/Google Drive
