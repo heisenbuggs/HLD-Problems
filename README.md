@@ -4,6 +4,7 @@
 - [ ] Design Job Scheduler
 - [ ] Design URL Shortener
 - [ ] Design Rate Limiter
+- [ ] Design Rate Limiter
 ## Medium Problems
 - [ ] Design Tinder
 - [ ] Design YouTube
