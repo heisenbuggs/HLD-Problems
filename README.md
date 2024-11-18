@@ -4,7 +4,7 @@
 - [ ] Design Job Scheduler
 - [ ] Design URL Shortener
 - [ ] Design Rate Limiter
-- [ ] Design Rate Limiter
+- [ ] Design Unique ID Generation
 ## Medium Problems
 - [ ] Design Tinder
 - [ ] Design YouTube
@@ -24,3 +24,4 @@
 - [ ] Design Dropbox/Google Drive
 - [ ] Design BookMyShow
 - [ ] Design Web Crawler
+- [ ] Design AirBnB
