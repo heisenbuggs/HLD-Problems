@@ -19,6 +19,7 @@
 - [ ] Design News Feed (Reddit)
 - [ ] Design Nearby Friends
 - [ ] Design Payment System
+- [ ] Design Amazon/Flipkart
 ## Hard Problems
 - [ ] Design Uber
 - [ ] Design Dropbox/Google Drive
