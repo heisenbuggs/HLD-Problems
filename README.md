@@ -5,6 +5,7 @@
 - [ ] Design URL Shortener
 - [ ] Design Rate Limiter
 - [ ] Design Unique ID Generation
+- [ ] Design Text Storage service like Pastebin
 ## Medium Problems
 - [ ] Design Tinder
 - [ ] Design YouTube
